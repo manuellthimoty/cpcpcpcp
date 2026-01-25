@@ -1,0 +1,1 @@
+{"name":"Local: perkenalan","url":"d:\\cp\\CP-Collection\\perkenalan.cpp","tests":[{"id":1767710520907,"input":"4\n1\n17\n51\n52","output":"YA\nYA\nYA\nBUKAN"},{"id":1767710972205,"input":"4\n1\n3\n5\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\perkenalan.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: gridPaths","url":"d:\\cp\\CP-Collection\\2026\\Januari\\CSES\\gridPaths.cpp","tests":[{"id":1769275843433,"input":"4\n....\n.*..\n...*\n*...","output":"3"},{"id":1769275860524,"input":"2\n.*\n..","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\Januari\\CSES\\gridPaths.cpp","group":"local","local":true}

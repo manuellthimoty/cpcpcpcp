@@ -1,0 +1,1 @@
+{"name":"Local: tripleoperation","url":"d:\\cp\\CP-Collection\\2026\\Januari\\tripleoperation.cpp","tests":[{"id":1767979563298,"input":"4\n1 3\n2 4\n199999 200000\n19 84","output":"5\n6\n36\n263"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\Januari\\tripleoperation.cpp","group":"local","local":true}
