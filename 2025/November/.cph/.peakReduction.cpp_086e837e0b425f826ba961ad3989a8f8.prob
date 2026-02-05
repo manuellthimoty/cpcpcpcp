@@ -1,0 +1,1 @@
+{"name":"Local: peakReduction","url":"d:\\cp\\CP-Collection\\2025\\November\\peakReduction.cpp","tests":[{"id":1769628149377,"input":"2\n3\n1 3 2\n4\n1 2 3 4","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2025\\November\\peakReduction.cpp","group":"local","local":true}
