@@ -17,7 +17,7 @@ int main() {
                 a[j] = nums;
             }
             pos[i][nums] = j;
-            // cout << pos[i][nums] << " ";
+            // cout << pos[i][nums] << " "; 
         }
         // cout << endl;
     }
