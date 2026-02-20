@@ -1,0 +1,1 @@
+{"name":"Local: asbCinema","url":"d:\\cp\\CP-Collection\\2026\\Februari\\asbCinema.cpp","tests":[{"id":1771175617847,"input":"4\n4\n17 9 9 13\n6\n-37 -32 -15 4 27 42\n5\n-26 -32 -24 -4 2\n2\n420 -69\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\Februari\\asbCinema.cpp","group":"local","local":true}
