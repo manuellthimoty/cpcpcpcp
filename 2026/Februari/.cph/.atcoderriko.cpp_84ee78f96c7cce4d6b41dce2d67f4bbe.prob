@@ -1,0 +1,1 @@
+{"name":"Local: atcoderriko","url":"d:\\cp\\CP-Collection\\2026\\Februari\\atcoderriko.cpp","tests":[{"id":1771578258982,"input":"4\n10 5 5 10\n","output":""},{"id":1771579344903,"input":"3\n4 4 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\Februari\\atcoderriko.cpp","group":"local","local":true}
