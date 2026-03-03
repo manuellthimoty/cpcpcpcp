@@ -1,0 +1,1 @@
+{"name":"Local: apartmen","url":"d:\\cp\\CP-Collection\\2026\\Februari\\apartmen.cpp","tests":[{"id":1772060932842,"input":"4 3 5\n60 45 80 60\n30 60 75","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\Februari\\apartmen.cpp","group":"local","local":true}

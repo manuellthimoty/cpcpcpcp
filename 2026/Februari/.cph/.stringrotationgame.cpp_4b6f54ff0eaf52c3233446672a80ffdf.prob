@@ -1,0 +1,1 @@
+{"name":"Local: stringrotationgame","url":"d:\\cp\\CP-Collection\\2026\\Februari\\stringrotationgame.cpp","tests":[{"id":1771684812556,"input":"4\n4\nabcd\n4\nabbc\n4\nabba\n6\nabbccc\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\Februari\\stringrotationgame.cpp","group":"local","local":true}
