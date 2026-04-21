@@ -1,0 +1,1 @@
+{"name":"Local: blocked","url":"d:\\cp\\CP-Collection\\2026\\April\\blocked.cpp","tests":[{"id":1776092505016,"input":"4\n3\n1 5 9\n4\n1 3 3 2\n3\n1 2 3\n1\n1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\April\\blocked.cpp","group":"local","local":true}

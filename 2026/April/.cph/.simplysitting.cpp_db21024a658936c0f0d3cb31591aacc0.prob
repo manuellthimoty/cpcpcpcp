@@ -1,0 +1,1 @@
+{"name":"Local: simplysitting","url":"d:\\cp\\CP-Collection\\2026\\April\\simplysitting.cpp","tests":[{"id":1776058543246,"input":"4\n3\n3 2 1\n5\n4 3 2 5 1\n4\n4 2 1 3\n4\n2 3 4 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\April\\simplysitting.cpp","group":"local","local":true}
