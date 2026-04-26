@@ -1,0 +1,1 @@
+{"name":"Local: justtheright","url":"d:\\cp\\CP-Collection\\2026\\April\\justtheright.cpp","tests":[{"id":1776953248085,"input":"3\n3\n4\n7","output":""},{"id":1776953846887,"input":"2\n100\n1000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\April\\justtheright.cpp","group":"local","local":true}

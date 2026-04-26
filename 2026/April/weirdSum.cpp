@@ -17,7 +17,21 @@ void solve(){
             cin >> a[i][j];
         }
     }
-    map<int,vector<pair<int,int>>> n;
+    map<int,vector<int>> xs;
+    map<int,vector<int>> ys;
+    for(int i = 1 ; i <= n ; i++){
+        for(int j = 1; j <= m ; j++){
+            int cur = a[i][j];
+            xs[cur].push_back(i);
+            ys[cur].push_back(j);
+        }
+    }
+    for(auto t : xs){
+        sort(t.second.begin(),t.second.end());
+    }
+    for(auto t : ys){
+        sort(t.second.end(),t.second.end());
+    }
 }
 int main() {
     ios::sync_with_stdio(false);
