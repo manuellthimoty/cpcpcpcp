@@ -1,0 +1,1 @@
+{"name":"Local: mArra","url":"d:\\cp\\CP-Collection\\2026\\April\\mArra.cpp","tests":[{"id":1777451977169,"input":"4\n6 4\n2 2 8 6 9 4\n10 8\n1 1 1 5 2 4 4 8 6 7\n1 1\n666\n2 2\n2 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\April\\mArra.cpp","group":"local","local":true}

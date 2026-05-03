@@ -1,0 +1,1 @@
+{"name":"Local: partyMonsters","url":"d:\\cp\\CP-Collection\\2026\\April\\partyMonsters.cpp","tests":[{"id":1777562583304,"input":"6\n2\n()\n2\n)(\n3\n(((\n6\n())(()\n4\n(()(\n5\n)()()\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\April\\partyMonsters.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: binomialCoeff","url":"d:\\cp\\CP-Collection\\2026\\April\\binomialCoeff.cpp","tests":[{"id":1777300617802,"input":"3\n5 3\n8 1\n9 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\April\\binomialCoeff.cpp","group":"local","local":true}
