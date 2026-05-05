@@ -1,0 +1,1 @@
+{"name":"Local: fenwick","url":"d:\\cp\\CP-Collection\\2026\\April\\fenwick.cpp","tests":[{"id":1777952501645,"input":"10\n3 1 2 4 2 3 1 7 5 2\n5\n2 2 4\n1 3 8\n2 2 4\n1 8 1\n2 1 10","output":"7\n15\n39"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\April\\fenwick.cpp","group":"local","local":true}
