@@ -17,10 +17,9 @@ bool isprime(ll n){
 }
 void solve(){
     while(true){
-        int n ; cin >> n;
-        if(n <= 0) break;
-        if(isprime(n)) YES
-        else NO
+        for(int left : {3,5,7}){
+            for(int right : {3,7}){}
+        }
     }
     // cout << isprime(n);
 }
