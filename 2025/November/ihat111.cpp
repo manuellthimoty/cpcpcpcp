@@ -44,7 +44,7 @@ int main() {
         return 0;
     }
     factor_of_min.erase(factor_of_min.end());
-    long long lower_bound=(ans-D)/S;
+    long long lower_bound=(ans-D)/S; 
     long long max_factor=*max_element(factor_of_min.begin(),factor_of_min.end());
     if(max_factor>=lower_bound){
         cout << "3 " << ans << endl;
