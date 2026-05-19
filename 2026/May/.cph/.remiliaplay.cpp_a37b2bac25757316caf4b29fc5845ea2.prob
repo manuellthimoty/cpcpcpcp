@@ -1,0 +1,1 @@
+{"name":"Local: remiliaplay","url":"d:\\cp\\CP-Collection\\2026\\May\\remiliaplay.cpp","tests":[{"id":1779124252533,"input":"4\n2 1 2 0\n4 3 2 1\n4 2 3 1\n16 8 4 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\May\\remiliaplay.cpp","group":"local","local":true}

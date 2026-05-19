@@ -58,7 +58,7 @@ void solve(){
         //     }
         // }
         if(curSize % 2 == 1){
-            if(curSize == 1) continue; // Langsung skip jika hanya 1 elemen (cost 0)
+            if(curSize == 1) continue;
             
             int p_size = curSize / 2;
             vector<ll> pref(p_size + 1, 0), suff(p_size + 1, 0);
