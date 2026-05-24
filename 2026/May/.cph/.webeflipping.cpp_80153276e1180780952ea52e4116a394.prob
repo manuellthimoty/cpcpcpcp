@@ -1,0 +1,1 @@
+{"name":"Local: webeflipping","url":"d:\\cp\\CP-Collection\\2026\\May\\webeflipping.cpp","tests":[{"id":1779550332714,"input":"3\n5\n-1 -2 -3 -5 -4\n5\n-1 -2 3 -5 4\n4\n5 7 10 19\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\May\\webeflipping.cpp","group":"local","local":true}
