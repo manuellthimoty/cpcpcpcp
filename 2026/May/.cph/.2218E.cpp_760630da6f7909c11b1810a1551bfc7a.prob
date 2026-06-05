@@ -1,0 +1,1 @@
+{"name":"Local: 2218E","url":"d:\\cp\\CP-Collection\\2026\\May\\2218E.cpp","tests":[{"id":1780598103909,"input":"3\n2\n67 67\n3\n1 2 3\n10\n67 667 167 867 267 467 367 567 767 967\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\May\\2218E.cpp","group":"local","local":true}
