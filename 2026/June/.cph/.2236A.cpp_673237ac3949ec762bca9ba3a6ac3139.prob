@@ -1,0 +1,1 @@
+{"name":"Local: 2236A","url":"d:\\cp\\CP-Collection\\2026\\June\\2236A.cpp","tests":[{"id":1781360845953,"input":"4\n2\n1 3\n3\n2 6 4\n5\n5 4 6 6 1\n4\n3 3 3 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\CP-Collection\\2026\\June\\2236A.cpp","group":"local","local":true}
