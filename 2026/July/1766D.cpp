@@ -26,6 +26,7 @@ void init() {
         }
     }
 }
+
 int find(int a,int k){
     int ans = a + (k - a % k) % k;
     while(k > 1){
