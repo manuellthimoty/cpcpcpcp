@@ -10,14 +10,15 @@ typedef long long ll;
 #define REPLL(i,l,r) for(ll i = l ; i < r ; i++)
 #define GK() ios::sync_with_stdio(false);cin.tie(nullptr)
 
-// n = dx
-// n' = n - d = dx - d = d(x-1)
-// n = p1^a1 .. pn^an
-// pilih d= p1^a1...pn^(an-1)
-// n - d = p1^a1...pn^(an-1)(pn -1)
-
 void solve(){
-    
+    int n ; cin >> n;
+    vector<int> a(n+1),p(n+1);
+    for(int i = 1; i <= n ; i++){
+        cin >> a[i];
+    }
+    for(int i = 1; i <= n ; i++){
+        cin >> p[i];
+    }
 }
 int main() {
     GK();

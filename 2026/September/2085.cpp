@@ -10,14 +10,18 @@ typedef long long ll;
 #define REPLL(i,l,r) for(ll i = l ; i < r ; i++)
 #define GK() ios::sync_with_stdio(false);cin.tie(nullptr)
 
-// n = dx
-// n' = n - d = dx - d = d(x-1)
-// n = p1^a1 .. pn^an
-// pilih d= p1^a1...pn^(an-1)
-// n - d = p1^a1...pn^(an-1)(pn -1)
-
 void solve(){
-    
+    ll x,y; cin >> x>> y;
+    if(x == y){
+        cout << -1 << endl;
+        return;
+    }
+    ll pow2 = 1;
+    while(pow2 < max(x,y)){
+        pow2 *= 2;
+    }
+    ll ans = pow2 - max(x,y);
+    cout << ans << endl;
 }
 int main() {
     GK();

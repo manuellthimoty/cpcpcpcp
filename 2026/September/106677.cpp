@@ -10,14 +10,29 @@ typedef long long ll;
 #define REPLL(i,l,r) for(ll i = l ; i < r ; i++)
 #define GK() ios::sync_with_stdio(false);cin.tie(nullptr)
 
-// n = dx
-// n' = n - d = dx - d = d(x-1)
-// n = p1^a1 .. pn^an
-// pilih d= p1^a1...pn^(an-1)
-// n - d = p1^a1...pn^(an-1)(pn -1)
-
 void solve(){
-    
+    ll s,k ; cin >> s >> k;
+    if(k == 1){
+        cout << s << endl;
+        return;
+    }
+    if(s == 1){
+        if(k == 1){
+            cout << 1 << endl;
+            return;
+        }
+        if(k % 2 == 0){
+            cout << 1 << endl;
+            return;;
+        }
+        else{
+            cout << (k+1)/2 << endl;
+            return;
+        }
+    }
+
+    ll len_cols = 2 * s -1;
+    ll b = (k/len_cols) +1;
 }
 int main() {
     GK();
