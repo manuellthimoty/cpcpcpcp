@@ -10,10 +10,10 @@ typedef long long ll;
 #define REPLL(i,l,r) for(ll i = l ; i < r ; i++)
 #define GK() ios::sync_with_stdio(false);cin.tie(nullptr)
 const int mxA = 1e6;
-
+typedef unsigned long long ull;
 
 int spf[mxA + 1];
-ll prime_hash[mxA + 1];
+ull prime_hash[mxA + 1];
 
 mt19937_64 rng(1337);
 
@@ -57,15 +57,15 @@ void solve() {
     for (int i = 0; i < n; i++) cin >> a[i];
 
     vector<ll> a2(n);
-    map<ll,ll> cnt2;
+    map<ull,ull> cnt2;
 
     for (int i = 0; i < n; i++) {
         a2[i] = tf(a[i]);
         cnt2[a2[i]]++;
     }
 
-    ll ans = 0;
-    ll currentPref = 0;
+    ull ans=0;
+    ull currentPref = 0;
 
     for (int i = 0; i < n; i++) {
         currentPref ^= a2[i];
