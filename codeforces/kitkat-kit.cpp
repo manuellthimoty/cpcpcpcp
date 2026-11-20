@@ -27,8 +27,7 @@ void solve(){
     else{
         cout << max(a,b) << endl;
         return;
-    }
-    
+    }    
 
 }
 
